@@ -1,3 +1,3 @@
 # alejandro-guzman.github.io
 
-My personal blog. Head over to :point_right: [https://alejandro.gg](https://alejandro.gg) :point_left:
+My personal blog [https://alejandro-guzman.github.io](https://alejandro-guzman.github.io)
